@@ -45,3 +45,9 @@ $(document).ready(function(){
 })
 
 // hover
+
+$(document).ready(function(){
+    $(".img").hover(function(){
+        $(".image-caption",this).slideToggle("slow");
+    })
+})
