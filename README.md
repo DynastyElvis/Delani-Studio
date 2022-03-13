@@ -34,7 +34,7 @@ This project is a web application for Delani studios that displays information a
 [Go Back to the top](#DELANI-STUDIO)
 
 ## Screenshot
-<img src="https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP/blob/main/images/Screenshot%20from%202022-03-07%2000-08-51.png" width="800px" height="400px">
+<img src="https://github.com/DynastyElvis/Delani-Studio/blob/main/Screenshot%20from%202022-03-13%2018-59-20.png" width="800px" height="400px">
 
 [LIVE LINK >>](https://dynastyelvis.github.io/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/)
 
