@@ -9,7 +9,7 @@
 *[Description](#Description)
 
 
-*[Installation Requirement](#Installation-Requirement)
+*[Installation Requirement](#Installation-Requirements)
 
 
 *[Technology Used](#Technology-Used)
@@ -45,9 +45,9 @@ This project is a web application for Delani studios that displays information a
 ## Installation
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP```
+* git clone ```https://github.com/DynastyElvis/Delani-Studio```
 
-* cd ```Ghanian-day-names--WK-2-IP```
+* cd ```Delani-Studio```
 
 * code . or atom . based on the text editor you have.
 
