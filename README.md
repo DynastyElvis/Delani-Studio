@@ -1,4 +1,4 @@
-## MY PORTFOLIO
+## DELANI STUDIO
 
 [KIPKEMOI RONO ELVIS](https://github.com/DynastyElvis)
 
@@ -27,25 +27,34 @@
 
 
 
-[Go Back to the top](#MY-PORTFOLIO)
+[Go Back to the top](#DELANI-STUDIO)
 ## Description
-This document will detail about myself, background information, skills, experiences, educaation and contact information of kipkemoi elvis rono
+This project is a web application for Delani studios that displays information about the services it provides, as well as studio information, a portfolio area, and a form for users to express messages and concerns to Delani studios.
+
+[Go Back to the top](#DELANI-STUDIO)
+
+## Screenshot
+<img src="https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP/blob/main/images/Screenshot%20from%202022-03-07%2000-08-51.png" width="800px" height="400px">
 
 [LIVE LINK >>](https://dynastyelvis.github.io/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/)
 
 
-[Go Back to the top](#MY-PORTFOLIO)
+
+[Go Back to the top](#DELANI-STUDIO)
 
 ## Installation
+* Open Terminal {Ctrl+Alt+T}
 
-To access the site, open your browser and put in the link URL.
+* git clone ```https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP```
 
-[Go Back to the top](#MY-PORTFOLIO)
-## Requirements
+* cd ```Ghanian-day-names--WK-2-IP```
 
-Web browser
+* code . or atom . based on the text editor you have.
 
-[Go Back to the top](#MY-PORTFOLIO)
+* To access the site, open your browser and put in the link URL.
+
+
+[Go Back to the top](#DELANI-STUDIO)
 
 ## Installation Requirements
 
@@ -55,14 +64,16 @@ Web browser
 
 * Updated version of your browser
 
-[Go Back to the top](#MY-PORTFOLIO)
+[Go Back to the top](#DELANI-STUDIO)
 
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
 * CSS - which was used to style the pages incuding the left aside navigation bar
 
-[Go Back to the top](#MY-PORTFOLIO)
+* Javascript - Adding interactive behavior to web pages.
+
+[Go Back to the top](#DELANI-STUDIO)
 
 ## Reference
 https://www.youtube.com/watch?v=D-h8L5hgW-w
@@ -73,13 +84,17 @@ https://www.w3schools.com/html/
 
 https://materializecss.com/
 
-[Go Back to the top](#MY-PORTFOLIO)
+https://www.codegrepper.com/app/index.php
+
+[Go Back to the top](#DELANI-STUDIO)
 
 ## Licence
 
 [MIT LICENCE](https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE)
 
 2022
+
+[Go Back to the top](#DELANI-STUDIO)
 
 ## Authors Info
 LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa3548209/)
@@ -88,5 +103,6 @@ kipkemoi.rono@student.moringaschool.com
 
 kipkemoilvs@gmail.com
 
-[Go Back to the top](#MY-PORTFOLIO)
+[Go Back to the top](#DELANI-STUDIO)
+
 
