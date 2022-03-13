@@ -40,3 +40,60 @@ html{
 }
 #WEDO{
     display: flex;
+}
+.uno,.dos,.tres{
+    padding: 0 200px 0 200px;
+}
+.design,.development,.product{
+    display: none;
+}
+h2{
+    text-align: center;
+}
+.PORTFOLIO{
+    text-align: center;
+    padding: 50px 0 0 0;
+}
+#PF{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 50px 0 50px;
+}
+#PF2{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 50px 0 50px;
+}
+.image-frame{
+	position: relative;
+    top: -200px;
+    bottom: 0;
+}
+.image-caption{
+    display: none;
+    border: 5px solid #fff;
+}
+.image-caption>p{
+    color: #fff;
+    font-weight: 900;
+    font-size: larger;
+}
+.CONTACT{
+    background-image: url(../img/backgrounds/c_image.jpg);
+    text-align: center;
+    color: #fff;
+}
+.CONTACT{
+    padding: 50px 0 100px 0;
+}
+#name,#email,#text,#s{
+    opacity: 0.4;
+}
+.ICONS{
+    padding: 50px 0 50px 0;
+    text-align: center;
+}
+.footer{
+    padding: 10px 0 10px;
+    text-align: center;
+}
