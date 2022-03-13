@@ -90,7 +90,7 @@ https://www.codegrepper.com/app/index.php
 
 ## Licence
 
-[MIT LICENCE](https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE)
+[MIT LICENCE](https://github.com/DynastyElvis/Delani-Studio/blob/main/LICENSE)
 
 2022
 
