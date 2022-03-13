@@ -51,3 +51,16 @@ $(document).ready(function(){
         $(".image-caption",this).slideToggle("slow");
     })
 })
+// form and alart
+
+    $(".form").on('submit',function(event){
+        event.preventDefault();
+        var name =$("#name").val();
+        var email=$("#email").val();
+        var text=$("#text").val();
+        if (name === "" & email === "") {
+            alert("Please fill in all fields!")
+        } else {
+            alert("Hi" + " " + name + "." + "Thank you for your feedback.We'll get back at you as soon as possible:)");
+        };
+    });
