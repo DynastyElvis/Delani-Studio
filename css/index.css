@@ -1,1 +1,42 @@
-
+html{
+    box-sizing: border-box;
+}
+*,*::before,*::after{
+    box-sizing: border-box;
+    font-family: 'Padauk', sans-serif;
+}
+.LOGO{
+    background-image: url(../img/backgrounds/h_img.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+}
+.SUB{
+    padding: 50px 0 150px 0;
+}
+.ABOUT{
+    text-align: center;
+    align-items: center;
+    padding: 50px 0 50px 0;
+}
+.SERVICES{
+    text-align: center;
+    background-image: url(../img/backgrounds/s_image.jpg);
+    color: #fff;
+    padding: 50px 0 50px 0;
+}
+.SERVICES{
+    align-items: center;
+    padding: 80px 0 80px 0;
+}
+.WEDO{
+    padding: 50px 0 50px 0;
+}
+.WEDO>h1{
+    text-align: center;
+}
+#WEDO{
+    display: flex;
