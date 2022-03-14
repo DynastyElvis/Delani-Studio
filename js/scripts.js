@@ -53,16 +53,3 @@ $(document).ready(function(){
         $(".image-caption",this).slideToggle("slow");
     })
 })
-// form and alert
-
-    $(".form").on('submit',function(event){
-        event.preventDefault();
-        var ELVIS =$("#ELVIS").val();
-        var email=$("#email").val();
-        var text=$("#text").val();
-        if (ELVIS === "" & email === "") {  // conditional statement for the name from the input then output results
-            alert("Please fill in all fields!")
-        } else {
-            alert("Hello there " + " " + ELVIS + "." + "Your message has been received)");// final output to user pop up
-        };
-    });
